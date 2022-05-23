@@ -1,0 +1,30 @@
+{
+  "name": "solo_catdog",
+  "version": "1.0.0",
+  "description": "npm init -y npm i nodemon npm i morgan npm install --save-dev sequelize-cli npm i sequelize sequelize-cli pg pg-hstore express hbs npx eslint --init npx create-gitignore node npm i session-file-store express-session npm i cookie-parser npm i partials",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.17.3",
+    "express-session": "^1.17.2",
+    "google-tts-api": "^2.0.2",
+    "hbs": "^4.2.0",
+    "morgan": "^1.10.0",
+    "partials": "^0.1.0",
+    "pg": "^8.7.3",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.17.0",
+    "session-file-store": "^1.5.0",
+    "translate-google": "^1.5.0"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.4.1"
+  }
+}
